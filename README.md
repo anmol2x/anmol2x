@@ -6,9 +6,9 @@
 
 "- 🔭 I’m currently working on": "Second year university project --- Java and Kali Linux course on Udemy",
 
-"- 🌱 I’m currently learning": "Java, MySQL, Kotlin and Kali Linux",
+"- 🌱 I’m currently learning": "Java, MySQL and Kali Linux",
 
-"- 👯 I’m looking to collaborate on": "Python, Java and Kotlin related projects",
+"- 👯 I’m looking to collaborate on": "Python, Java related projects",
 
 "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
 
