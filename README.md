@@ -18,13 +18,13 @@
 
 <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anmol LinkedIn Profile" height="30" width="30">
 
 </a>
 
 <a href="https://gitlab.com/Anmol2x">
 
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Anmol LinkedIn Profile" height="30" width="30">
 
 </a>
 
