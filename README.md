@@ -30,8 +30,6 @@
 
 </p>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-
 <p align="center">
 
 <a href="https://stackshare.io/anmol2x/my-personal-stack">
