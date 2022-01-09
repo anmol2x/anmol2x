@@ -12,8 +12,6 @@
 
 "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
 
-<h2 align="center">You can reach me at :alien:</h2>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anmol-kainth-9a7663175//">
