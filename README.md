@@ -16,7 +16,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+<a href="https://www.linkedin.com/in/anmol-kainth-9a7663175//">
 
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anmol LinkedIn Profile" height="30" width="30">
 
