@@ -42,6 +42,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anmol2x&show_icons=true&theme=synthwave" alt="Anmol2x :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="1000"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ---
