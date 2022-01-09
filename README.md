@@ -12,7 +12,7 @@
 
 "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/anmol-kainth-9a7663175//">
 
