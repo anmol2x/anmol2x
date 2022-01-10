@@ -14,18 +14,6 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/anmol-kainth-9a7663175//">
-
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anmol LinkedIn Profile" height="30" width="30">
-
-</a>
-
-<a href="https://gitlab.com/Anmol2x">
-
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Anmol LinkedIn Profile" height="30" width="30">
-
-</a>
-
 </p>
 
 <p align="left">
