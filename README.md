@@ -2,15 +2,13 @@
 
 <h2 align="center">About me</h2>
 
-"- ⚡ Quick bio:": "I like League of Legends",
+⚡ I like League of Legends
 
-"- 🔭 I’m currently working on": "Second year university project --- Java and Kali Linux course on Udemy",
+🔭 I’m currently working on my second year university project --- Java and Kali Linux course on Udemy
 
-"- 🌱 I’m currently learning": "Java, MySQL and Kali Linux",
+🌱 I’m currently learning Java, MySQL and Kali Linux
 
-"- 👯 I’m looking to collaborate on": "Python, Java related projects",
-
-"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+👯 I’m looking to collaborate on Python and Java related projects
 
 <p align="left">
 
