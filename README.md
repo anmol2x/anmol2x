@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Anmol
 
-<h2 align="center">About me</h2>
-
 ⚡ I like League of Legends
 
 🔭 I’m currently working on my second year university project --- Java and Kali Linux course on Udemy
