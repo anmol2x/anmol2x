@@ -2,7 +2,7 @@
 
 ⚡ I like League of Legends
 
-🔭 I’m currently working on my second year university project --- Java and Kali Linux course on Udemy
+🔭 I’m currently working on my second year university project --- Java web dev course on Udemy
 
 🌱 I’m currently learning Java, MySQL and Kali Linux
 
