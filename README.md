@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anmol
 
-⚡ I like League of Legends
+⚡ I like acoustic guitar and league of legends
 
 🔭 I’m currently working on my second year university project --- Java web dev course on Udemy
 
