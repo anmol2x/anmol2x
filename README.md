@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Anmol
 
-⚡ I like acoustic guitar and league of legends
+🔭 I’m currently working on my final year university project
 
-🔭 I’m currently working on my second year university project --- Java web dev course on Udemy
+🌱 I’m currently learning Java and C#
 
-🌱 I’m currently learning Java, MySQL and Kali Linux
-
-👯 I’m looking to collaborate on Python and Java related projects
+👯 I’m looking to collaborate on Java related projects
 
 <p align="left">
 
