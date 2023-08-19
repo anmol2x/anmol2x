@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anmol
 
-🔭 I’m currently working on my final year university project
+🔭 Graduate from Brunel University London
 
 🌱 I’m currently learning Java and C#
 
